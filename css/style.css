@@ -1,0 +1,24 @@
+.img_blk{
+    display:inline-block;
+    position:relative
+;
+    font-size: 13px;
+}
+
+.img_blk img {
+    max-width: 98%;
+}
+.img_blk > span {
+    position:absolute;
+    right: 5px;
+    padding:5px;
+    background: #E92828;
+    color:#fff;
+    border-radius:50%;
+    line-height: 7px;
+    cursor:pointer;
+}
+
+.img_blk > span:hover {
+    opacity: 0.8;
+}
