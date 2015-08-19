@@ -1,0 +1,9 @@
+.info-label{
+	display:block;
+	margin:10px 0;
+}
+.info-form{
+	display:block;
+	width:100%;
+	min-height:80px
+}
